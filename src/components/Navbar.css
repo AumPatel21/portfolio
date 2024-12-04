@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.raised-text-on-hover:hover {
+    transform: translateY(-2px);
+}
